@@ -7,7 +7,8 @@ If you're interested, the PwC simulation includes:
 - Call Center Performance Dashboard: Analyzing customer and agent behavior.
 - Retention and Churn Risk Analysis.
 - Diversity and Inclusion Analysis.
-- Task 1: Call Centre Trends
+  
+Task 1: Call Centre Trends
 - Possible KPIs include:
 Overall customer satisfaction Overall calls answered/abandoned Calls by time Average speed of answer Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 ![image](https://github.com/user-attachments/assets/d04b22e5-19ff-4daa-8133-37e859a91a2a)
@@ -17,7 +18,8 @@ Customers in the telecom industry are hard-earned: we don’t want to lose them 
 ![image](https://github.com/user-attachments/assets/cef5dd9a-d04e-4c4a-be6f-831f5f4e7d5d)
 ![image](https://github.com/user-attachments/assets/63749f5b-4156-4feb-ac71-f0296800337d)
 
-Task 3: Diversity & Inclusion Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+Task 3: Diversity & Inclusion 
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 ![image](https://github.com/user-attachments/assets/3aec5c85-df79-4216-b45f-1ef862bd704e)
 ![image](https://github.com/user-attachments/assets/8c5ee675-9471-4b96-a08c-04cc83bd5856)
 
