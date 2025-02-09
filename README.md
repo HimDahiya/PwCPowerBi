@@ -3,7 +3,7 @@ These tasks involve kind of heavy transformations to prepare the data for easy a
 
 Additionally, the program provides professional samples created by PwC Business Intelligence developers, allowing me to compare and benchmark my work.
 
-If you're interested, the PwC simulation includes:
+The PwC simulation includes:
 - Call Center Performance Dashboard: Analyzing customer and agent behavior.
 - Retention and Churn Risk Analysis.
 - Diversity and Inclusion Analysis.
